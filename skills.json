@@ -1,0 +1,28 @@
+[
+    
+
+    {
+        "name": "javascript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    
+  
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+  {
+        "name": "Spreadsheet",
+        "icon": "https://img.icons8.com/?size=48&id=30461&format=png"
+    },
+  {
+        "name": "Power point",
+        "icon": "https://img.icons8.com/?size=48&id=117557&format=png"
+    },
+  
+  {
+        "name": "Excel",
+        "icon": "https://img.icons8.com/?size=48&id=117561&format=png"
+    }
+  
+]
