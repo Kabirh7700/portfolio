@@ -39,19 +39,32 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     $("#contact-form").submit(function (event) {
-        emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
+  event.preventDefault();
 
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
-            .then(function (response) {
-                console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
-                alert("Form Submitted Successfully");
-            }, function (error) {
-                console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
-            });
-        event.preventDefault();
-    });
+  const formData = {
+    name: $("input[name='name']").val(),
+    email: $("input[name='email']").val(),
+    phone: $("input[name='phone']").val(),
+    message: $("textarea[name='message']").val()
+  };
+
+  fetch("https://script.google.com/macros/s/AKfycbwLpd8KZSRrybZNCYU8-riNog3d9d8XVe7lnKXxHc-ASGO76CmEYIiltccYsNzc4w58UA/exec", {
+    method: "POST",
+    body: JSON.stringify(formData),
+    headers: {
+      "Content-Type": "application/json"
+    }
+  })
+  .then(res => res.text())
+  .then(response => {
+    alert("Form submitted successfully!");
+    $("#contact-form")[0].reset();
+  })
+  .catch(err => {
+    console.error("Submission error:", err);
+    alert("Failed to submit form. Try again.");
+  });
+});
     // <!-- emailjs to mail contact form data -->
 
 });
