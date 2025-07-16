@@ -8,21 +8,25 @@
     
   
     {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+        "name": "Looker studio",
+        "icon": "https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000"
     },
   {
         "name": "Spreadsheet",
         "icon": "https://img.icons8.com/?size=48&id=30461&format=png"
     },
   {
-        "name": "Power point",
-        "icon": "https://img.icons8.com/?size=48&id=117557&format=png"
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000"
     },
   
   {
         "name": "Excel",
         "icon": "https://img.icons8.com/?size=48&id=117561&format=png"
+    },
+{
+        "name": "ChatGpt",
+        "icon": "https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000"
     }
   
 ]
