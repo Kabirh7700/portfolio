@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Bachelor of Arts",
+    "institution": "University of Delhi — School of Open Learning",
+    "start": "2020",
+    "end": "2023",
+    "image": "assets/images/edu-du.png"
+  },
+  {
+    "title": "MIS Executive — Training",
+    "institution": "PLUS-IS Computer Training Institute, Delhi",
+    "start": "2020",
+    "end": "2021",
+    "image": "assets/images/edu-plusis.jpg"
+  }
+]

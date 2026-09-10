@@ -1,0 +1,32 @@
+{
+  "name": "Sahil Hussain",
+  "role": "Data Analyst",
+  "location": "New Delhi, India",
+  "email": "sahilhussain06@gmail.com",
+  "resumeUrl": "https://drive.google.com/file/d/1lTZ8gSI9UwF8x4iS0uexCMXiNyS5ap0H/view?usp=sharing",
+  "heroLine": "I turn raw spreadsheets into decisions people can act on.",
+  "heroSub": "Building dashboards, automations and reporting systems that keep businesses moving.",
+  "typingStrings": ["Data Analyst", "Dashboard Builder", "Automation Enthusiast"],
+  "stats": [
+    { "label": "Years in MIS & Analytics", "value": 4, "suffix": "+" },
+    { "label": "Dashboards shipped", "value": 30, "suffix": "+" },
+    { "label": "Core tools", "value": 6, "suffix": "" }
+  ],
+  "about": {
+    "heading": "I'm Sahil",
+    "tag": "Data Analyst",
+    "paragraphs": [
+      "Experienced Data Analyst with a passion for continuous learning and delivering data-driven insights. Skilled in identifying trends, resolving technical issues, and guiding users across a wide range of software systems. Proficient in Excel, Google Sheets, Looker Studio, Power BI and SQL, with expertise in building interactive dashboards and managing automated reporting workflows.",
+      "With a strong background in MIS (Management Information Systems), I specialise in building and managing Business Intelligence dashboards that support operational and strategic decision-making. My experience includes automating complex processes using Google Apps Script, and integrating tools to streamline workflows such as Checklists, FMS, Delegation systems, IMS and Project Management Systems.",
+      "I thrive in dynamic environments where analytical thinking, automation and system improvement intersect — always eager to learn, adapt and contribute to data-led growth."
+    ]
+  },
+  "socials": [
+    { "platform": "linkedin", "label": "LinkedIn", "url": "https://tinyurl.com/Sahil-Hussain/", "icon": "fab fa-linkedin" },
+    { "platform": "twitter", "label": "Twitter", "url": "https://twitter.com/Kabir-Hussain", "icon": "fab fa-twitter" },
+    { "platform": "telegram", "label": "Telegram", "url": "https://t.me/lifecode786", "icon": "fab fa-telegram-plane" },
+    { "platform": "instagram", "label": "Instagram", "url": "https://www.instagram.com/kabir__hussain__", "icon": "fab fa-instagram" },
+    { "platform": "email", "label": "Email", "url": "mailto:sahilhussain06@gmail.com", "icon": "fas fa-envelope" }
+  ],
+  "contactFormEndpoint": "https://script.google.com/macros/s/AKfycbwLpd8KZSRrybZNCYU8-riNog3d9d8XVe7lnKXxHc-ASGO76CmEYIiltccYsNzc4w58UA/exec"
+}

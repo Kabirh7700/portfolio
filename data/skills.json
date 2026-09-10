@@ -1,0 +1,9 @@
+[
+  { "name": "Excel", "category": "Spreadsheets", "level": 95, "icon": "https://img.icons8.com/?size=48&id=117561&format=png" },
+  { "name": "Google Sheets", "category": "Spreadsheets", "level": 92, "icon": "https://img.icons8.com/?size=48&id=30461&format=png" },
+  { "name": "Looker Studio", "category": "BI & Dashboards", "level": 85, "icon": "https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" },
+  { "name": "Power BI", "category": "BI & Dashboards", "level": 78, "icon": "https://img.icons8.com/color/48/000000/power-bi.png" },
+  { "name": "MySQL", "category": "Data & Automation", "level": 75, "icon": "https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000" },
+  { "name": "Google Apps Script", "category": "Data & Automation", "level": 80, "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png" },
+  { "name": "ChatGPT / AI Tools", "category": "Data & Automation", "level": 88, "icon": "https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000" }
+]
